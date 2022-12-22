@@ -10,5 +10,14 @@
         "js": ["contentScript.js"],
         "run_at": "document_end"
       }
-    ]
+    ],
+    "action": {
+        "default_icon": {
+          "16": "icon.png",
+          "24": "icon.png",
+          "32": "icon.png"
+        },
+        "default_title": "Annlatin",
+        "default_popup": "popup.html"
+      }
 }
