@@ -16,7 +16,6 @@ for (let i = 0; i < text.length; i++) {
 }
 
 const images = document.querySelectorAll('img')
-
 for (let i = 0; i < images.length; i++) {
     images[i].src = 'https://pbs.twimg.com/profile_images/1326707048478892033/Ln0v50LP_400x400.jpg'
 }
