@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Rickify",
-    "description": "Rick roll text converter. For those who enjoy slowly torturing their friends as they wonder if they've simply gone crazy.",
+    "description": "Rick roll text converter. For those who enjoy putting people through slow, excruciatingly painful torture that makes them question reality.",
     "version": "1.0",
     "content_scripts": [
       {
