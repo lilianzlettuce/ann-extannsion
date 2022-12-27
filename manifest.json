@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
-    "name": "Annlatin",
-    "description": "Ann code converter",
+    "name": "Rickify",
+    "description": "Rick roll text converter. For those who enjoy slowly torturing their friends as they wonder if they've simply gone crazy.",
     "version": "1.0",
     "content_scripts": [
       {

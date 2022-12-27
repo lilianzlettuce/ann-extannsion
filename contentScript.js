@@ -8,7 +8,14 @@ for (let i = 0; i < text1.length; i++) {
 }
 for (let i = 0; i < text2.length; i++) {
     text2[i].innerText = text2[i].innerText.replace(/[aeiou]/gi, 'ann')
-}*/
+}
+
+const links = document.querySelectorAll('a')
+for (let i = 0; i < links.length; i++) {
+    links[i].href = 'https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley'
+}
+
+*/
 
 // rickify 
 for (let i = 0; i < text.length; i++) {
